@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://stoni.me", "https://stonehoo.vercel.app"
   contact: {
     email: "jinwei1014@gmail.com",
-    tel: "+1 628-233-6666",
+    tel: "+16282336666",
     social: [
       {
         name: "GitHub",
