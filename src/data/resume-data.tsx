@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://t.ly/2CbQu",
-  personalWebsiteUrl: "https://stoni.me", "https://stonehoo.vercel.app"
+  personalWebsiteUrl: ["https://stoni.me", "https://stonehoo.vercel.app"]
   contact: {
     email: "jinwei1014@gmail.com",
     tel: "+16282336666",
