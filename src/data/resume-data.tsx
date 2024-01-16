@@ -28,8 +28,8 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://t.ly/2CbQu",
-  personalWebsiteUrl: ["https://stoni.me", "https://stonehoo.vercel.app"]
+  avatarUrl: "https://private-user-images.githubusercontent.com/53326015/296909824-cb1b93d7-3e87-4b3e-8498-e6487baf8647.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzNzE3MDUsIm5iZiI6MTcwNTM3MTQwNSwicGF0aCI6Ii81MzMyNjAxNS8yOTY5MDk4MjQtY2IxYjkzZDctM2U4Ny00YjNlLTg0OTgtZTY0ODdiYWY4NjQ3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDAyMTY0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1ZDdmODVmOTBlOGEwMjdhM2ViN2M0NTcxOGQ5NWY4NmNlMzlkZGQzZmZmNjJhYmNhZjliZGQ5OTZlOTE4YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GhpobgfQlyTDmeYVpk4x0P1w5a-yg2bfyFkQ5xeqE34",
+  personalWebsiteUrl: "https://stoni.me",
   contact: {
     email: "jinwei1014@gmail.com",
     tel: "+16282336666",
